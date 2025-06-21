@@ -1,0 +1,142 @@
+.accueil-container {
+    width: 100vw; /* occupe toute la largeur de la fenêtre */
+    height: 100vh; /* L’image ne prend que 60% de la hauteur */
+  /* Cela crée un espace vide au-dessus */
+    
+    background-image: url('../assets/image1.png'); /* ou le chemin de ton image */
+    background-size: cover; /* redimensionne pour couvrir tout l’écran */
+    background-position: center bottom; /* Aligne bien l’image en bas */
+    background-repeat: no-repeat;
+    overflow: hidden; /* empêche le débordement */
+    /*margin-top: 57px;
+    /*margin: 0; nohon'ilay navabar fixe moa zany*/ 
+    padding: 0;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    box-sizing: border-box;
+    
+  }
+  
+  /* .overlay-content {
+    position: fixed;
+    left: 20px; /* Éloignement du bord gauche */
+    /*top: 50%; /* Centrage vertical 
+    /*transform: translateY(-50%); /* Ajustement pour un vrai centrage */
+
+    /*background-color: rgba(106, 13, 173, 0.3); /* Violet avec transparence 
+    background-color: rgba(106, 13, 173, 0.3); /* 30% transparent 
+    color: white;
+    border-radius: 20px;
+    padding: 10rem;
+    max-width: 450px;
+    width: 100%;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(5px);
+    margin: 0 auto 50px auto; /* 0 en haut, auto sur les côtés, 20px en bas 
+    gap: 1.5rem; /* espace entre tous les enfants 
+
+
+
+  } */
+  
+  .overlay-content {
+    position: fixed;
+    left: 20px;
+    background-color: rgba(106, 13, 173, 0.3);
+    color: white;
+    border-radius: 20px;
+    padding: 2.5rem; /* réduit pour éviter trop de hauteur */
+    max-width: 600px;
+    min-height: 500px;
+    width: 100%;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(5px);
+    margin: 0 auto 50px auto;
+  
+    /* 💡 Nouveaux styles */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+  }
+  
+
+
+
+  .titre-acceuil {
+    font-size: 2.2rem;
+    font-weight: bold;
+    margin-bottom: 0.8rem;
+    display: flex;
+    align-items: center;
+    gap: 0.2rem;
+  }
+  
+  .e {
+    color: #6A0DAD;
+  }
+  
+  .plus {
+    color: #FFD700;
+    font-weight: bold;
+  }
+  
+  .varotra {
+    color: #6A0DAD;
+  }
+  
+  .sous-titre {
+    font-size: 1.1rem;
+    color: #FFD700;
+    margin-bottom: 0.5rem;
+  }
+  
+  .description {
+    font-size: 1rem;
+    color: #FFF8DC;
+    margin-bottom: 1.2rem;
+  }
+  
+  .btn-savoir-plus {
+    background-color: #FFD700 !important;
+    color: #6A0DAD !important;
+    font-weight: bold !important;
+    border-radius: 12px !important;
+    padding: 0.6rem 1.2rem !important;
+    text-transform: none !important;
+  }
+  
+  .arrow {
+    display: inline-block;
+    margin-left: 0.3rem;
+  }
+
+  
+  
+  @media (max-width: 768px) {
+    .overlay-content {
+      max-width: calc(80% - 2rem); 
+      min-height: 40px;
+      padding: 1.5rem;
+      left: 1rem;
+      right: 1rem;
+      border-radius: 16px;
+    }
+  
+    .titre-acceuil {
+      font-size: 1.6rem;
+    }
+  
+    .sous-titre, .description {
+      font-size: 0.95rem;
+    }
+  
+    .btn-savoir-plus {
+      font-size: 0.9rem !important;
+    }
+  }
+  
+  

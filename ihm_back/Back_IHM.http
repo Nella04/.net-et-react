@@ -1,0 +1,6 @@
+@Back_IHM_HostAddress = http://localhost:5255
+
+GET {{Back_IHM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,135 @@
+[
+    {
+      "id_vendeur": "VEN001",
+      "nom": "Rakoto Andry",
+      "type": "Particulier",
+      "statut": "Actif",
+      "motdepasse": "pass1234",
+      "email": "andry@exemple.com",
+      "compte_bancaire": "CN123456789"
+    },
+    {
+      "id_vendeur": "VEN002",
+      "nom": "Rasoanaivo Clara",
+      "type": "Entreprise",
+      "statut": "Actif",
+      "motdepasse": "secure456",
+      "email": "clara@entreprise.com",
+      "compte_bancaire": "CN987654321"
+    },
+    {
+        "id_vendeur": "VEN003",
+        "nom": "Rasoanaivo Clara",
+        "type": "Entreprise",
+        "statut": "Actif",
+        "motdepasse": "secure456",
+        "email": "clara@entreprise.com",
+        "compte_bancaire": "CN987654321"
+      },
+      {
+        "id_vendeur": "VEN004",
+        "nom": "Rasoanaivo Clara",
+        "type": "Entreprise",
+        "statut": "Actif",
+        "motdepasse": "secure456",
+        "email": "clara@entreprise.com",
+        "compte_bancaire": "CN987654321"
+      },
+      {
+        "id_vendeur": "VEN005",
+        "nom": "Rasoanaivo Clara",
+        "type": "Entreprise",
+        "statut": "Actif",
+        "motdepasse": "secure456",
+        "email": "clara@entreprise.com",
+        "compte_bancaire": "CN987654321"
+      },
+      {
+        "id_vendeur": "VEN006",
+        "nom": "Rasoanaivo Clara",
+        "type": "Entreprise",
+        "statut": "Actif",
+        "motdepasse": "secure456",
+        "email": "clara@entreprise.com",
+        "compte_bancaire": "CN987654321"
+      },
+      {
+        "id_vendeur": "VEN007",
+        "nom": "Rasoanaivo Clara",
+        "type": "Entreprise",
+        "statut": "Actif",
+        "motdepasse": "secure456",
+        "email": "clara@entreprise.com",
+        "compte_bancaire": "CN987654321"
+      },
+      {
+        "id_vendeur": "VEN008",
+        "nom": "Rasoanaivo Clara",
+        "type": "Entreprise",
+        "statut": "Actif",
+        "motdepasse": "secure456",
+        "email": "clara@entreprise.com",
+        "compte_bancaire": "CN987654321"
+      },
+      {
+        "id_vendeur": "VEN009",
+        "nom": "Rasoanaivo Clara",
+        "type": "Entreprise",
+        "statut": "Actif",
+        "motdepasse": "secure456",
+        "email": "clara@entreprise.com",
+        "compte_bancaire": "CN987654321"
+      },{
+        "id_vendeur": "VEN0010",
+        "nom": "Rasoanaivo Clara",
+        "type": "Entreprise",
+        "statut": "Actif",
+        "motdepasse": "secure456",
+        "email": "clara@entreprise.com",
+        "compte_bancaire": "CN987654321"
+      },{
+        "id_vendeur": "VEN0011",
+        "nom": "Rasoanaivo Clara",
+        "type": "Entreprise",
+        "statut": "Actif",
+        "motdepasse": "secure456",
+        "email": "clara@entreprise.com",
+        "compte_bancaire": "CN987654321"
+      },
+      {
+        "id_vendeur": "VEN0012",
+        "nom": "Rasoanaivo Clara",
+        "type": "Entreprise",
+        "statut": "Actif",
+        "motdepasse": "secure456",
+        "email": "clara@entreprise.com",
+        "compte_bancaire": "CN987654321"
+      },{
+        "id_vendeur": "VEN0013",
+        "nom": "Rasoanaivo Clara",
+        "type": "Entreprise",
+        "statut": "Actif",
+        "motdepasse": "secure456",
+        "email": "clara@entreprise.com",
+        "compte_bancaire": "CN987654321"
+      }
+      ,{
+        "id_vendeur": "VEN0014",
+        "nom": "Rasoanaivo Clara",
+        "type": "Entreprise",
+        "statut": "Actif",
+        "motdepasse": "secure456",
+        "email": "clara@entreprise.com",
+        "compte_bancaire": "CN987654321"
+      }
+      ,{
+        "id_vendeur": "VEN0015",
+        "nom": "Rasoanaivo Clara",
+        "type": "Entreprise",
+        "statut": "Actif",
+        "motdepasse": "secure456",
+        "email": "clara@entreprise.com",
+        "compte_bancaire": "CN987654321"
+      }
+  ]
+  

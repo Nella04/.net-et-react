@@ -1,0 +1,23 @@
+# Dossiers à ignorer
+bin/
+obj/
+.vs/
+
+# Fichiers de config utilisateur
+*.user
+*.suo
+*.cache
+
+# Fichiers de compilation
+*.exe
+*.dll
+*.pdb
+
+# Fichiers NuGet
+*.nupkg
+project.lock.json
+project.assets.json
+*.nuspec
+
+# Logs
+*.log

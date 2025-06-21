@@ -1,0 +1,33 @@
+/*.menu-btn {
+  display: none;
+  position: fixed;
+  top: 15px;
+  left: 15px;
+  z-index: 1100;
+  background: #6A0DAD;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  font-size: 20px;
+  border-radius: 5px;
+}
+@media(max-width : 768px) {
+  .menu-btn {
+    display: block;
+  }
+} */
+
+.menu-btn {
+    margin-left: 10px;
+  }
+  
+  /* Responsive : cacher le texte sur mobile */
+  @media (max-width: 768px) {
+    .nav-text {
+      display: none;
+    }
+  
+    .search-box {
+      display: none;
+    }
+  }

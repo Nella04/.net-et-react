@@ -1,0 +1,80 @@
+[
+    {
+    "codebar": "001",
+    "nom_article": "T-shirt noir",
+    "description": "Un t-shirt noir en coton très confortable",
+    "marque": "H&M",
+    "prix": 12000,
+    "quantite": 50,
+    "categorie": "vêtements",
+    "image": "../image/black-plain-shortsleeve-cotton-tshirt-600nw-1904909734.jpg",
+    "vendeur": "V001"
+  },
+  {
+    "codebar": "002",
+    "nom_article": "Chaussures Converse",
+    "description": "Chaussures Converse Chuck Taylor All Star",
+    "marque": "Converse",
+    "prix": 98000,
+    "quantite": 30,
+    "categorie": "chaussures",
+    "image": "../image/converse-chuck-taylor-all-star-fall-tone.jpg",
+    "vendeur": "V002"
+  },
+  {
+    "codebar": "003",
+    "nom_article": "Écouteurs Xiaomi",
+    "description": "Écouteurs Bluetooth Xiaomi Redmi",
+    "marque": "Xiaomi",
+    "prix": 75000,
+    "quantite": 40,
+    "categorie": "accessoires",
+    "image": "../image/ecouteurxiaomi.jpeg",
+    "vendeur": "V001"
+  },
+  {
+    "codebar": "004",
+    "nom_article": "Samsung Galaxy A16",
+    "description": "Smartphone Samsung Galaxy A16 dernière génération",
+    "marque": "Samsung",
+    "prix": 450000,
+    "quantite": 20,
+    "categorie": "téléphones",
+    "image": "../image/samsung-galaxy-a16.jpg",
+    "vendeur": "V003"
+  },
+  {
+    "codebar": "005",
+    "nom_article": "Sac à main Hobo",
+    "description": "Sac à main femme, style original pour toutes occasions",
+    "marque": "Generic",
+    "prix": 56000,
+    "quantite": 25,
+    "categorie": "accessoires",
+    "image": "../image/shoper-latest-party-stylishr-handbag-women-style-hobo-dowet-original-imagzm...jpg",
+    "vendeur": "V004"
+  }  ,
+  {
+    "codebar": "006",
+    "nom_article": "sac noir ",
+    "description": "Sac noir 35cm longueur et 20 cm largeur",
+    "marque": "Generic",
+    "prix": 56000,
+    "quantite": 25,
+    "categorie": "accessoires",
+    "image": "../image/ELENA19SBBLK-2.jpg",
+    "vendeur": "V004"
+  }  ,
+  {
+    "codebar": "007",
+    "nom_article": "tablette ",
+    "description": "tablette tactile ",
+    "marque": "Generic",
+    "prix": 56000,
+    "quantite": 25,
+    "categorie": "téléphones",
+    "image": "../image/tablette-tactile-lenovo-m10-plus-gen-3-10-61.jpg",
+    "vendeur": "V004"
+  }      
+  ]
+  
